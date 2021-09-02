@@ -1,0 +1,19 @@
+.course-section{
+	border-top:2px double cadetblue;
+	border-bottom: 2px double cadetblue;
+	width:100%;
+	text-align:center;
+
+}
+.course{
+	display: inline-block;
+	width:30%;
+	text-align: center;
+	border-radius: 8px;
+	vertical-align: middle;
+	margin:8px;
+}
+.course-description {
+	border-top:3px dashed cadetblue;
+	margin:5px;
+}
